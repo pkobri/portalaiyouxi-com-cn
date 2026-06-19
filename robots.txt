@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pkobri.github.io/portalaiyouxi-com-cn/sitemap.xml
